@@ -1,3 +1,10 @@
+CW-PHONE-BAND-PASS-backups/
+LTSpice/*.imp
+LTSpice/*.log
+LTSpice/*.raw
+
+
+
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 # Format documentation: http://kicad-pcb.org/help/file-formats/
 
